@@ -1,0 +1,2 @@
+# SemanaDoPython
+Projetos em Python
